@@ -1,0 +1,20 @@
+{
+	"default": {
+		"port": "$PORT:8081",
+		"host": "0.0.0.0",
+		"securityLayer": "none",
+        "custom-key":"custom value"
+	},
+    /*
+    "custom": {
+        "port": "$PORT:8081",
+        "host": "127.0.0.1",
+        "securityLayer": "tls",
+        "tls": {
+            "certificates": "none",
+            "signature": "selfSigned"
+        }
+    },
+     */
+    
+}
